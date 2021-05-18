@@ -1,0 +1,4 @@
+#Tue May 11 18:14:26 BRT 2021
+base.0=/home/lira/Área de Trabalho/flutter_mobile/pets-app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
